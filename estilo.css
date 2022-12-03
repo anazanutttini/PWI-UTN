@@ -1,0 +1,109 @@
+body{
+  background-color: #f2c3bb;
+  color:rgb(76, 0, 135)
+  }
+
+*{
+  font-family: nunito;
+  margin-top: 0%;
+  margin-left: 0px;
+  margin-right: 0px;
+  }
+
+h1{
+  float: left;
+  margin: 0% 0% 0% 0%;
+  text-align: center;
+  width: 1200px;
+  font-size: 111px;
+  background-color: hwb(10 73% 5%);
+  color: rgb(96, 96, 95);
+  position: fixed;
+  right: 167px;
+  
+
+  }
+
+h2{
+  background-image: url(./spfondo.jpg);
+  background-size: cover;
+ 
+  height: 1920px;
+  width: 1519px;
+}
+
+.logo{
+  height: 150px;
+  width: 10%;
+  position: fixed;
+  border: 0px;
+  margin: 0px;
+  padding: -10px;
+  padding-left: -10px;
+  float: left;
+  }
+
+ul{
+  
+  text-align: start;
+  padding: 14px 0px 0px 0px;
+  border-radius: 5px;
+  position: fixed;
+  bottom: 552px;
+  }
+
+.item{ 
+  display: inline;
+  background-color:#f176a7;
+  padding: 15px; 
+  padding-left: 4px;
+  color: #60605f;
+  font-size: 20px;
+  white-space: 2px;
+  position: fixed;
+  bottom: 552px;
+height: 50px;
+width: 180px;
+top: 150px;}
+  #item1{
+    left: 0px;
+  }
+  #item2{
+    left: 180px;}
+    #item3{
+      left: 360px;
+    width: 260px;}
+      #item4{
+        left: 620px;
+      width: 320px;}
+        #item5{
+          left: 940px;
+        width: 290px;}
+        
+                    
+
+   
+ 
+button{
+  height: 150px;
+  width: 11%;
+  background-color: #cd9b93;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-right: 0px;
+  font-size: 40px;
+  border: 0px;
+  color: #f2c3bb;
+  position: fixed;
+  right: 0px ;
+  }
+
+header{
+  display: flex;
+  }
+  .item:hover{
+background-color: #cd9b93a9;
+  }
+  button:hover{
+    background-color:#cd9b9388
+  }

@@ -1,0 +1,20 @@
+*{
+font-family: 'Nunito', sans-serif;
+background-color:#f2c3ba;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 8px;
+margin-bottom: 8px;
+text-align: left;
+
+}
+
+button:hover{
+transform: scale(1.5);
+}
+#boton2{  
+    margin-left: 0px;
+}
+#boton3{
+    margin-right: 5px;
+}
